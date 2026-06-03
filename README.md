@@ -1,1 +1,4 @@
 # Pat2_Subtask1-
+Morse code is a telecommunications method which encodes text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.- Wikipedia
+The historial context of Morse Code- Before the invention of the telegraph, most messages that had to be sent over long distances were carried by messengers who memorized them or carried them in writing. These messages could be delivered no faster than the fastest horse. Messages could also be sent visually, using flags and later, mechanical systems called semaphore telegraphs, but these systems required the receiver to be close enough to see the sender, and could not be used at night.-NRICH
+How the Morse Code systems- Morse code is a communication system that translates text into sequences of short signals (dots) and long signals (dashes).-AI Overview
